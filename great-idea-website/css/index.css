@@ -66,27 +66,24 @@ h1, h2, h3, h4, h5 {
 /*universal and nav here*/
 * {
 	max-width: 100%;
-	border: 5px solid white;
 }
 
 .logo {
-	margin-left: 90%;
-	position: relative;
+	display: inline-block;
+	margin-left: 500px;
 }
 
 .topRow a {
-	border: 2px solid gray;
 	color: gray;
-	width: 30%;
 	text-decoration: none;
-	margin: 3% 2%;
+	margin: 0% 3.5%;
 }
 
 /*mainBody here*/
 .mainBody h1 {
 	font-size: 75px;
 	padding: 3% 0% 0% 0%;
-	margin-left: 3%;
+	margin-left: 5%;
 	width: 40%;
 	text-align: center;
 }
