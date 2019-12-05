@@ -89,9 +89,6 @@ h1, h2, h3, h4, h5 {
 }
 
 /*mainBody here*/
-.mainBody {
-	
-}
 
 .mainBody h1 {
 	font-size: 75px;
@@ -111,13 +108,11 @@ h1, h2, h3, h4, h5 {
 }
 
 .innovationTitle {
-	display: inline-block;
 	border: 0px solid green;
 	margin-left: 50px;
 }
 
 .codeImage {
-	display: inline-block;
 	border: 0px solid purple;
 	margin-left: 80px;
 	margin-top: 100px;
